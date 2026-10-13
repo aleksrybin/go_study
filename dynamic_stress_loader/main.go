@@ -11,7 +11,7 @@ import (
 	"time"
 )
 
-// SystemStats хранит данные о памяти в Мегабайтах
+// SystemStats хранит данные о памяти в MMегабайтах..
 type SystemStats struct {
 	Total     int
 	Available int
